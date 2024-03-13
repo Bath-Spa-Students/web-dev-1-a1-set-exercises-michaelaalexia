@@ -1,3 +1,15 @@
-.hclass {
-    background-color: purple;
+.heading {
+    background-color: rgb(93, 117, 98);
+    color: white;
+}
+
+
+.ingredients {
+    color: white;
+    background-color: rgb(93, 117, 98);
+}
+
+.method{
+    color: white;
+    background-color: rgb(93, 117, 98);
 }
