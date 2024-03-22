@@ -1,0 +1,31 @@
+body {
+    background-color: rgb(6, 2, 33);
+}
+
+h1 {
+    text-align: center;
+    color: white;
+}
+
+/* image 1 : books */
+.book {
+    filter: brightness(50%);
+    text-align: center;
+}
+
+.copyright {
+    color: white;
+    text-align: center;
+}
+
+/* image 2 : crafts */
+.crafts {
+    filter:grayscale(67%);
+    text-align: center;
+}
+
+/* image 3 : cards */
+.cards {
+    filter:saturate(97%);
+    text-align: center;
+}
