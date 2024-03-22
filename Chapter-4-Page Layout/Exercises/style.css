@@ -1,0 +1,37 @@
+/* section 1 : title and nav */
+.title {
+    background-color: rgb(31, 3, 74);
+    color: white;
+    text-align: center;
+    font-family: Arial;
+    padding: 30px;
+    word-spacing: 25%;
+}
+
+/* section 2 : welcome */
+.welcome {
+    float: left;
+    font-family: Arial;
+    background-color: white;
+    color: black;
+    width: 50%;
+}
+
+/* section 3 : lineup */
+.lineup {
+    font-family: Arial;
+    background-color: rgb(15, 40, 113);
+    color: white;
+    float: right;
+    width: 30%;
+    padding: 5%;
+}
+
+/* section 4 : footer */
+.footer {
+    font-family: Arial;
+    text-align: center;
+    color: white;
+    background-color: rgb(115, 38, 186);
+    padding: 1%;
+}
