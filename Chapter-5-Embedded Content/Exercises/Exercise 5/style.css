@@ -2,6 +2,7 @@ body {
     background-color: black;
 }
 
+/* putting video on center-align */
 .video {
     display: block;
     margin-left: auto;

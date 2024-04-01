@@ -1,0 +1,46 @@
+/* background */
+
+body {
+    background-color: rgb(158, 161, 244);
+}
+
+h1 {
+    text-align: center;
+    background-color: black;
+    color: rgb(253, 253, 253);
+    font-family: Helvetica;
+    font-size: 70px;
+}
+
+.first_part {
+    color: rgb(32, 33, 34);
+    font-family: Helvetica;
+    font-size: 30px;
+}
+
+.second_part {
+    color: rgb(32, 33, 34);
+    font-family: Helvetica;
+    font-size: 30px;
+}
+
+#btn {
+
+    button{
+        background-color: aliceblue;
+        border-radius: 50px;
+        border: 2px solid black;
+        display: flex;
+      color: rgb(32, 33, 34);
+    }
+}
+
+#total {
+    color: rgb(32, 33, 34);
+    font-family: Helvetica;
+    font-size: 30px;
+}
+
+button:hover{
+    background-color: aquamarine;
+}
