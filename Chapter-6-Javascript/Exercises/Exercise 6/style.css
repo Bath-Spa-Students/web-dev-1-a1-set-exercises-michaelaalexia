@@ -1,5 +1,4 @@
 /* background */
-
 body {
     background-color: rgb(158, 161, 244);
 }
@@ -11,7 +10,7 @@ h1 {
     font-family: Helvetica;
     font-size: 70px;
 }
-
+/* inputs */
 .first_part {
     color: rgb(32, 33, 34);
     font-family: Helvetica;
@@ -23,7 +22,7 @@ h1 {
     font-family: Helvetica;
     font-size: 30px;
 }
-
+/* button */
 #btn {
 
     button{
